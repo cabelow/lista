@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1555867413 source:c:\codeblocks\estruturadados\lista\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"lista.h"
+
+1555818603 c:\codeblocks\estruturadados\lista\lista2\lista.h
+
+1555866834 source:c:\codeblocks\estruturadados\lista\lista2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"lista.h"
+
